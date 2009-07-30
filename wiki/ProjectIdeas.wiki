@@ -1,0 +1,1 @@
+Use this page as a notepad for any ideas and stuff that come to mind when thinking about this project.
