@@ -1,0 +1,10 @@
+#summary Documentation for Message Entity.
+
+= Introduction =
+
+This contains details for the Message entity (such as attributes) 
+
+
+= Details =
+
+  * *Message ID* Uniquely identifies each message
