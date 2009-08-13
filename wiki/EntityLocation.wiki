@@ -1,0 +1,10 @@
+#summary Documentation for Location Entity.
+
+= Introduction =
+
+This contains details for the Location entity (such as attributes)
+
+
+= Details =
+
+  * *Location ID* Uniquely identifies each location
