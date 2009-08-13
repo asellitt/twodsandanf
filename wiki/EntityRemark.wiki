@@ -1,0 +1,10 @@
+#summary Documentation for Remark Entity.
+
+= Introduction =
+
+This contains details for the Remark entity (such as attributes) 
+
+
+= Details =
+
+  * *Remark ID* Uniquely identifies each remark
