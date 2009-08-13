@@ -1,0 +1,10 @@
+#summary Documentation for Problem Entity.
+
+= Introduction =
+
+This contains details for the Problem entity (such as attributes) 
+
+
+= Details =
+
+  * *Problem ID* Uniquely identifies each problem
