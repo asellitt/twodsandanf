@@ -1,0 +1,10 @@
+#summary Documentation for News Entity.
+
+= Introduction =
+
+This contains details for the News entity (such as attributes)
+
+
+= Details =
+
+  * *News ID* Uniquely identifies each news
