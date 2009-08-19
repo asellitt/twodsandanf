@@ -51,4 +51,7 @@ It is our mission to provide people with up to date traffic conditions so that t
   * Mobile platform
   * Desktop platform
   * Google Maps integration
-  * User chat support (not instant messaging)
+  * Message boards for:
+    * Locations
+    * Problems
+    * Users
