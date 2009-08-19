@@ -1,0 +1,21 @@
+#summary The Team Charter
+
+= Context =
+
+== What problem is being addressed? ==
+
+* traffic congestion
+* godzilla attacks
+* user experience with certain locations
+* getting from point A to point B and avoiding traffic annoyances
+
+== What result or delivery is expected? ==
+
+== Why is this important? ==
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
