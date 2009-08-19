@@ -29,3 +29,9 @@
   * this is an academic requirement
   * this allows people to determine the best course for any trips
   * also allows people to tell people about their experiences at certain locations
+
+= Mission and Objectives =
+
+== Mission Statement ==
+
+It is our mission provide people with up to date traffic conditions so that they can make the best possible choices when planning any trip
