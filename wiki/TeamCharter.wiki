@@ -34,4 +34,16 @@
 
 == Mission Statement ==
 
-It is our mission provide people with up to date traffic conditions so that they can make the best possible choices when planning any trip
+It is our mission to provide people with up to date traffic conditions so that they can make the best possible choices when planning any trip
+
+== Goals ==
+
+  # Team members
+  # Team documentation
+  # Project proposal
+  # Project presentation
+  # Project specification
+  # Final presentation
+  # Final submission
+
+== Technical Goals ==
