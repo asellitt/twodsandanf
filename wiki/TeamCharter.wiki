@@ -73,22 +73,33 @@ All activities relating to the development of the application logic which will s
   # PHP scripting
   # Query design
 
-=== Database Design ==
+=== Database Design ===
 All activities relating to the development of the database schema
   # ER Modelling
   # Database minimisation
 
+== Quality Control and Testing ===
+All activities relating to application testing and quality management
 
-Frontend Designers:
+
+== Team Roles ==
+
+=== Front End Designers ===
 Steven
 Brad
 
-Backend Designers:
+=== Back End Designers ===
 Charlie
 Chris
 
-Query Designer:
+=== Database Designers ===
 Peter
+Anthony
 
-Image Editing:
+=== Quality Control and Testing Team ===
+Steven
+Brad
+Charlie
+Chris
+Peter
 Anthony
