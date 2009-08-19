@@ -47,3 +47,8 @@ It is our mission to provide people with up to date traffic conditions so that t
   # Final submission
 
 == Technical Goals ==
+
+  * Mobile platform
+  * Desktop platform
+  * Google Maps integration
+  * User chat support (not instant messaging)
