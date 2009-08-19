@@ -69,37 +69,44 @@ All activities relating to the development of the user interface on both the mob
   # Logo and icon design
 
 === Back End Design ===
-All activities relating to the development of the application logic which will serve as a abstraction from the databse to the user interface
+All activities relating to the development of the application logic which will serve as a abstraction from the database to the user interface
   # PHP scripting
   # Query design
 
 === Database Design ===
 All activities relating to the development of the database schema
-  # ER Modelling
-  # Database minimisation
+  # ER Modeling
+  # Database minimization
 
 == Quality Control and Testing ===
 All activities relating to application testing and quality management
 
-
 == Team Roles ==
 
 === Front End Designers ===
-Steven
-Brad
+  # Steven
+  # Brad
 
 === Back End Designers ===
-Charlie
-Chris
+  # Charlie
+  # Chris
 
 === Database Designers ===
-Peter
-Anthony
+  # Peter
+  # Anthony
 
 === Quality Control and Testing Team ===
-Steven
-Brad
-Charlie
-Chris
-Peter
-Anthony
+  # Steven
+  # Brad
+  # Charlie
+  # Chris
+  # Peter
+  # Anthony
+
+= Operations =
+
+== Team Meetings ==
+  # Meetings will be held during the Tutorial time slot
+  # Each member is expected to present a short status report for the aspect of the project they are working on
+  # If a member is unable to attend, notification must be sent to the team leader and someone else designated to report on the status and communicate further expectations
+  # A summary of each meeting will be prepared by appointed secretary and uploaded to the Downloads section of the project page, by the morning following the meeting.
