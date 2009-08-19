@@ -4,10 +4,10 @@
 
 == What problem is being addressed? ==
 
-* traffic congestion
-* godzilla attacks
-* user experience with certain locations
-* getting from point A to point B and avoiding traffic annoyances
+  * traffic congestion
+  * godzilla attacks
+  * user experience with certain locations
+  * getting from point A to point B and avoiding traffic annoyances
 
 == What result or delivery is expected? ==
 
