@@ -55,3 +55,40 @@ It is our mission to provide people with up to date traffic conditions so that t
     * Locations
     * Problems
     * Users
+
+= Composition and Roles =
+
+== Role Definition ==
+
+=== Front End Design ===
+All activities relating to the development of the user interface on both the mobile and desktop platforms. 
+  # HTML layout (via PEAR Templates)
+  # CSS styling
+  # Image editing
+  # Colour schemes
+  # Logo and icon design
+
+=== Back End Design ===
+All activities relating to the development of the application logic which will serve as a abstraction from the databse to the user interface
+  # PHP scripting
+  # Query design
+
+=== Database Design ==
+All activities relating to the development of the database schema
+  # ER Modelling
+  # Database minimisation
+
+
+Frontend Designers:
+Steven
+Brad
+
+Backend Designers:
+Charlie
+Chris
+
+Query Designer:
+Peter
+
+Image Editing:
+Anthony
