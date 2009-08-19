@@ -25,3 +25,7 @@
     #. We havinah servah
 
 == Why is this important? ==
+
+  * this is an academic requirement
+  * this allows people to determine the best course for any trips
+  * also allows people to tell people about their experiences at certain locations
