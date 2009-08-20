@@ -110,3 +110,5 @@ All activities relating to application testing and quality management
   # Each member is expected to present a short status report for the aspect of the project they are working on
   # If a member is unable to attend, notification must be sent to the team leader and someone else designated to report on the status and communicate further expectations
   # A summary of each meeting will be prepared by appointed secretary and uploaded to the Downloads section of the project page, by the morning following the meeting.
+  # Food and drink are permitted (when the venue permits)
+  # Members may take calls during the meeting, but away from the rest of the group. SMS responses should be done after the meeting
