@@ -22,7 +22,7 @@ Fav Icon Test Page:
 
 [http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/favicon_blue.html FavIconTest (blue)]
 
-[http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/favicon_red.html FavIconTest (red]
+[http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/favicon_red.html FavIconTest (red)]
 
 
 Other ideas (Colour schemes - what the deuce! that blue is purple!)
