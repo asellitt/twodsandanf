@@ -14,8 +14,17 @@ http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_favicon.png
 
 Fav Icon Test Page:
 
-[http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/favicon.html FavIconTest]
+[http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/favicon_blank.html FavIconTest (blank)]
+
+[http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/favicon_green.html FavIconTest (green)]
+
+[http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/favicon_green_radial.html FavIconTest (green radial)]
+
+[http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/favicon_blue.html FavIconTest (blue)]
+
+[http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/favicon_red.html FavIconTest (red]
+
 
 Other ideas (Colour schemes - what the deuce! that blue is purple!)
 
-http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_trafficlights.png http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_red.png http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_blue.png http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_green.png
+http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_trafficlights.png http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_red.png http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_blue.png http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_green.png http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_green_radial.png
