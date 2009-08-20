@@ -1,0 +1,5 @@
+#summary Discussion relating to the front end layout
+
+Check this template out
+
+[http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/ Template]
