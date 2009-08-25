@@ -84,7 +84,7 @@ All activities relating to application testing and quality management
 == Team Roles ==
 
 === Front End Designers ===
-  # Steven
+  # Anthony
   # Brad
 
 === Back End Designers ===
@@ -93,7 +93,7 @@ All activities relating to application testing and quality management
 
 === Database Designers ===
   # Peter
-  # Anthony
+  # Steven
 
 === Quality Control and Testing Team ===
   # Steven
