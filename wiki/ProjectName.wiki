@@ -1,5 +1,14 @@
 Use this page as a notepad for any names you can think of when thinking about this project.
 
+Team name logos:
+
+http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/twodsandanf_standard.png
+
+http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/twodsandanf_bra.png
+
+http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/twodsandanf_skin.png
+
+
 Hows this logo?
 
 http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr.png
