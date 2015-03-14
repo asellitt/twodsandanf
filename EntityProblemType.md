@@ -1,0 +1,9 @@
+# Introduction #
+
+This contains details for the Problem Type entity (such as attributes). This will hold the textual representation of the problem types
+
+
+# Details #
+
+  * **Type ID** Uniquely identifies each problem type
+  * **Description** The text representation of the problem

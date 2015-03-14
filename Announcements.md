@@ -1,0 +1,15 @@
+Presentation V1 is in the Download Section. Hack at it as much as you like. Still missing other member contributions...
+
+Anthony 2/09/09
+
+
+---
+
+
+Team Contract is up in the Download Section. And we need a team charter,
+http://www.mindtools.com/pages/article/newTMM_95.htm - google search found that
+
+Chris 19/08/09
+
+
+---

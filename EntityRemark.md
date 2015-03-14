@@ -1,0 +1,11 @@
+# Introduction #
+
+This contains details for the Remark entity (such as attributes). This will hold user remarks on news posted on the site. Just to make it more "social".
+
+
+# Details #
+
+  * **Remark ID** Uniquely identifies each remark
+  * **News ID** Uniquely identifies which news post the remark refers to
+  * **User ID** Uniquely identifies which user posted the remark
+  * **Message** The actual remark

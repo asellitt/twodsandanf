@@ -1,0 +1,10 @@
+# Introduction #
+
+This contains details for the News entity (such as attributes). This will be used to store news details (such as road works, accommodation etc)
+
+
+# Details #
+
+  * **News ID** Uniquely identifies each news
+  * **Location ID** Uniquely identifies the closest location affected by this news. May consist of many IDs
+  * **News** The (nicely formatted) news itself

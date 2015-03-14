@@ -1,0 +1,39 @@
+Use this page as a notepad for any names you can think of when thinking about this project.
+
+Team name logos:
+
+![http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/twodsandanf_standard.png](http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/twodsandanf_standard.png)
+
+![http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/twodsandanf_bra.png](http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/twodsandanf_bra.png)
+
+![http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/twodsandanf_skin.png](http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/twodsandanf_skin.png)
+
+
+Hows this logo?
+
+![http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr.png](http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr.png)
+
+Version 2 (flat)
+
+![http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_flat.png](http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_flat.png)
+
+With this favourites icon
+
+![http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_favicon.png](http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_favicon.png)
+
+Fav Icon Test Page:
+
+[FavIconTest (blank)](http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/favicon_blank.html)
+
+[FavIconTest (green)](http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/favicon_green.html)
+
+[FavIconTest (green radial)](http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/favicon_green_radial.html)
+
+[FavIconTest (blue)](http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/favicon_blue.html)
+
+[FavIconTest (red)](http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/favicon_red.html)
+
+
+Other ideas (Colour schemes - what the deuce! that blue is purple!)
+
+![http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_trafficlights.png](http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_trafficlights.png) ![http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_red.png](http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_red.png) ![http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_blue.png](http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_blue.png) ![http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_green.png](http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_green.png) ![http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_green_radial.png](http://yallara.cs.rmit.edu.au/~asellitt/wda/a2/trakr_green_radial.png)
